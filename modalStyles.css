@@ -30,6 +30,7 @@ body {
   cursor: pointer;
   border: none;
   box-shadow: 0 3rem 5rem rgba(0, 0, 0, 0.3);
+  outline: none;
 }
 
 .container {
